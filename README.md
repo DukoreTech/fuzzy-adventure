@@ -4,3 +4,5 @@ print(“😁😁 mwabonye rero “)
 print("nukuri twa kubonye vrmnt")
 123456789
 TITITITI
+
+console.log("hello Elodie!!");
