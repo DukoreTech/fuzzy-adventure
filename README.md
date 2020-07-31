@@ -5,4 +5,4 @@ print("nukuri twa kubonye vrmnt")
 123456789
 TITITITI
 
-console.log("hello Elodie!!");
+console.log("hello Elodie!");
